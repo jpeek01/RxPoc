@@ -1,0 +1,253 @@
+{
+    "nlmDisclaimer": "It is not the intention of NLM to provide specific medical advice, but rather to provide users with information to better understand their health and their medications. NLM urges you to consult with a qualified physician for advice about medications.",
+    "userInput": {
+        "sources": [
+            ""
+        ],
+        "rxcui": "1000992"
+    },
+    "interactionTypeGroup": [
+        {
+            "sourceDisclaimer": "DrugBank is intended for educational and scientific research purposes only and you expressly acknowledge and agree that use of DrugBank is at your sole risk. The accuracy of DrugBank information is not guaranteed and reliance on DrugBank shall be at your sole risk. DrugBank is not intended as a substitute for professional medical advice, diagnosis or treatment..[www.drugbank.ca]",
+            "sourceName": "DrugBank",
+            "interactionType": [
+                {
+                    "comment": "Oxymetazoline hydrochloride 0.5 MG/ML Nasal Spray [Afrin] (1000992) is resolved to Oxymetazoline (7812)",
+                    "minConceptItem": {
+                        "rxcui": "1000992",
+                        "name": "Oxymetazoline hydrochloride 0.5 MG/ML Nasal Spray [Afrin]",
+                        "tty": "SBD"
+                    },
+                    "interactionPair": [
+                        {
+                            "interactionConcept": [
+                                {
+                                    "minConceptItem": {
+                                        "rxcui": "7812",
+                                        "name": "Oxymetazoline",
+                                        "tty": "IN"
+                                    },
+                                    "sourceConceptItem": {
+                                        "id": "DB00935",
+                                        "name": "Oxymetazoline",
+                                        "url": "http://www.drugbank.ca/drugs/DB00935#interactions"
+                                    }
+                                },
+                                {
+                                    "minConceptItem": {
+                                        "rxcui": "5464",
+                                        "name": "Hyaluronidase",
+                                        "tty": "IN"
+                                    },
+                                    "sourceConceptItem": {
+                                        "id": "DB00070",
+                                        "name": "Hyaluronidase",
+                                        "url": "http://www.drugbank.ca/drugs/DB00070#interactions"
+                                    }
+                                }
+                            ],
+                            "severity": "N/A",
+                            "description": "Hyaluronidase may increase the vasoconstricting activities of Oxymetazoline."
+                        },
+                        {
+                            "interactionConcept": [
+                                {
+                                    "minConceptItem": {
+                                        "rxcui": "7812",
+                                        "name": "Oxymetazoline",
+                                        "tty": "IN"
+                                    },
+                                    "sourceConceptItem": {
+                                        "id": "DB00935",
+                                        "name": "Oxymetazoline",
+                                        "url": "http://www.drugbank.ca/drugs/DB00935#interactions"
+                                    }
+                                },
+                                {
+                                    "minConceptItem": {
+                                        "rxcui": "486164",
+                                        "name": "hyaluronidase, ovine",
+                                        "tty": "PIN"
+                                    },
+                                    "sourceConceptItem": {
+                                        "id": "DB00070",
+                                        "name": "Hyaluronidase",
+                                        "url": "http://www.drugbank.ca/drugs/DB00070#interactions"
+                                    }
+                                }
+                            ],
+                            "severity": "N/A",
+                            "description": "Hyaluronidase may increase the vasoconstricting activities of Oxymetazoline."
+                        },
+                        {
+                            "interactionConcept": [
+                                {
+                                    "minConceptItem": {
+                                        "rxcui": "7812",
+                                        "name": "Oxymetazoline",
+                                        "tty": "IN"
+                                    },
+                                    "sourceConceptItem": {
+                                        "id": "DB00935",
+                                        "name": "Oxymetazoline",
+                                        "url": "http://www.drugbank.ca/drugs/DB00935#interactions"
+                                    }
+                                },
+                                {
+                                    "minConceptItem": {
+                                        "rxcui": "725",
+                                        "name": "Amphetamine",
+                                        "tty": "IN"
+                                    },
+                                    "sourceConceptItem": {
+                                        "id": "DB00182",
+                                        "name": "Amphetamine",
+                                        "url": "http://www.drugbank.ca/drugs/DB00182#interactions"
+                                    }
+                                }
+                            ],
+                            "severity": "N/A",
+                            "description": "Amphetamine may increase the hypertensive activities of Oxymetazoline."
+                        },
+                        {
+                            "interactionConcept": [
+                                {
+                                    "minConceptItem": {
+                                        "rxcui": "7812",
+                                        "name": "Oxymetazoline",
+                                        "tty": "IN"
+                                    },
+                                    "sourceConceptItem": {
+                                        "id": "DB00935",
+                                        "name": "Oxymetazoline",
+                                        "url": "http://www.drugbank.ca/drugs/DB00935#interactions"
+                                    }
+                                },
+                                {
+                                    "minConceptItem": {
+                                        "rxcui": "49737",
+                                        "name": "esmolol",
+                                        "tty": "IN"
+                                    },
+                                    "sourceConceptItem": {
+                                        "id": "DB00187",
+                                        "name": "Esmolol",
+                                        "url": "http://www.drugbank.ca/drugs/DB00187#interactions"
+                                    }
+                                }
+                            ],
+                            "severity": "N/A",
+                            "description": "Oxymetazoline may increase the atrioventricular blocking (AV block) activities of Esmolol."
+                        },
+                        {
+                            "interactionConcept": [
+                                {
+                                    "minConceptItem": {
+                                        "rxcui": "7812",
+                                        "name": "Oxymetazoline",
+                                        "tty": "IN"
+                                    },
+                                    "sourceConceptItem": {
+                                        "id": "DB00935",
+                                        "name": "Oxymetazoline",
+                                        "url": "http://www.drugbank.ca/drugs/DB00935#interactions"
+                                    }
+                                },
+                                {
+                                    "minConceptItem": {
+                                        "rxcui": "8152",
+                                        "name": "Phentermine",
+                                        "tty": "IN"
+                                    },
+                                    "sourceConceptItem": {
+                                        "id": "DB00191",
+                                        "name": "Phentermine",
+                                        "url": "http://www.drugbank.ca/drugs/DB00191#interactions"
+                                    }
+                                }
+                            ],
+                            "severity": "N/A",
+                            "description": "The risk or severity of adverse effects can be increased when Phentermine is combined with Oxymetazoline."
+                        },
+                        {
+                            "interactionConcept": [
+                                {
+                                    "minConceptItem": {
+                                        "rxcui": "7812",
+                                        "name": "Oxymetazoline",
+                                        "tty": "IN"
+                                    },
+                                    "sourceConceptItem": {
+                                        "id": "DB00935",
+                                        "name": "Oxymetazoline",
+                                        "url": "http://www.drugbank.ca/drugs/DB00935#interactions"
+                                    }
+                                },
+                                {
+                                    "minConceptItem": {
+                                        "rxcui": "221138",
+                                        "name": "PHENTERMINE RESIN",
+                                        "tty": "PIN"
+                                    },
+                                    "sourceConceptItem": {
+                                        "id": "DB00191",
+                                        "name": "Phentermine",
+                                        "url": "http://www.drugbank.ca/drugs/DB00191#interactions"
+                                    }
+                                }
+                            ],
+                            "severity": "N/A",
+                            "description": "The risk or severity of adverse effects can be increased when Phentermine is combined with Oxymetazoline."
+                        },
+                        {
+                            "interactionConcept": [
+                                {
+                                    "minConceptItem": {
+                                        "rxcui": "7812",
+                                        "name": "Oxymetazoline",
+                                        "tty": "IN"
+                                    },
+                                    "sourceConceptItem": {
+                                        "id": "DB00935",
+                                        "name": "Oxymetazoline",
+                                        "url": "http://www.drugbank.ca/drugs/DB00935#interactions"
+                                    }
+                                },
+                                {
+                                    "minConceptItem": {
+                                        "rxcui": "1520",
+                                        "name": "Betaxolol",
+                                        "tty": "IN"
+                                    },
+                                    "sourceConceptItem": {
+                                        "id": "DB00195",
+                                        "name": "Betaxolol",
+                                        "url": "http://www.drugbank.ca/drugs/DB00195#interactions"
+                                    }
+                                }
+                            ],
+                            "severity": "N/A",
+                            "description": "Oxymetazoline may increase the atrioventricular blocking (AV block) activities of Betaxolol."
+                        },
+                        {
+                            "interactionConcept": [
+                                {
+                                    "minConceptItem": {
+                                        "rxcui": "7812",
+                                        "name": "Oxymetazoline",
+                                        "tty": "IN"
+                                    },
+                                    "sourceConceptItem": {
+                                        "id": "DB00935",
+                                        "name": "Oxymetazoline",
+                                        "url": "http://www.drugbank.ca/drugs/DB00935#interactions"
+                                    }
+                                },
+                                {
+                                    "minConceptItem": {
+                                        "rxcui": "6963",
+                                        "name": "Midodrine",
+                                        "tty": "IN"
+                                    },
+                                    "sourceConceptItem": {
+                                        "id": "DB00211","n

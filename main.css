@@ -1,0 +1,10 @@
+#results {
+    background-color: lightgrey;
+    width: 500px;
+    height: 250px;
+    margin: 50px;
+}
+
+.getRxData {
+    margin-left: 50px;
+}
